@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I am an undergraduate student at IIT working on my Bacherlors.
-# I major in Informational Technology & Management
-# I am fascinated by Web Development and chose to specialize in the field.
+### I am an undergraduate student at IIT working on my Bacherlors. I major in Informational Technology & Management. I am fascinated by Web Development and chose to specialize in the field.
 
 - 🔭 I’m currently working on personal projects for my portfolio
 - 🌱 I’m currently learning HTML5/CSS3 and Bootstrap 

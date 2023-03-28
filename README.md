@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am an undergraduate student at IIT working on my Bachelors. I major in Informational Technology & Management. I am fascinated by Web Development and chose to specialize in the field.
+### I am a graduate student at IIT working on my Masters. I specialize in Web Design & Application Development. I am familiar with many languages, but I enjoy Front-End Web Development the most. Welcome to my GitHub page.
 
-- 🔭 I’m currently working on personal projects for my portfolio
-- 🌱 I’m currently learning HTML5/CSS3 and Bootstrap 
+- 🔭 I’m currently working on mastering JavaScript and moving onto React.js
+- 🌱 I’m currently learning Object-Oriented Programming in JavaScript
 - 📫 How to reach me: kpatel9338448@gmail.com
 - ⚡ Fun fact: I like wearing polos.
